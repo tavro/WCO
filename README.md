@@ -64,8 +64,6 @@
 * https://simone.org/tracking-screen-time/
 * https://gaultier.github.io/blog/x11_x64.html
 ### Articles / Experience in tech
-* https://onengineering.substack.com/p/why-engineers-need-to-be-bored
-* http://jackkelly.name/blog/archives/2023/05/14/the_maddest_my_code_made_anyone/
 * https://kentcdodds.com/blog/stop-being-a-junior
 * https://www.engineersneedart.com/blog/samestop/samestop.html
 * https://blog.visionarycto.com/p/my-20-year-career-is-technical-debt
@@ -78,6 +76,9 @@
 * https://news.ycombinator.com/item?id=35164819
 * https://evanhahn.com/the-lone-developer-problem/
 * https://www.simplethread.com/20-things-ive-learned-in-my-20-years-as-a-software-engineer/
+#### Read articles
+* https://onengineering.substack.com/p/why-engineers-need-to-be-bored
+* http://jackkelly.name/blog/archives/2023/05/14/the_maddest_my_code_made_anyone/
 * https://archive.ph/qh0vP
 * https://github.com/readme/guides/finish-your-projects
 
