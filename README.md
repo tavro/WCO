@@ -65,9 +65,7 @@
 * https://gaultier.github.io/blog/x11_x64.html
 ### Articles / Experience in tech
 * https://kentcdodds.com/blog/stop-being-a-junior
-* https://www.engineersneedart.com/blog/samestop/samestop.html
 * https://blog.visionarycto.com/p/my-20-year-career-is-technical-debt
-* https://andreizgirvaci.com/blog/how-to-reduce-stress-and-overcome-anxiety-as-a-software-developer
 * https://vadimkravcenko.com/shorts/project-estimates/
 * https://thehistoryoftheweb.com/postscript/the-webs-most-important-decision/
 * http://farawaytimes.blogspot.com/2023/02/how-to-make-good-small-games.html
@@ -81,6 +79,8 @@
 * http://jackkelly.name/blog/archives/2023/05/14/the_maddest_my_code_made_anyone/
 * https://archive.ph/qh0vP
 * https://github.com/readme/guides/finish-your-projects
+* https://www.engineersneedart.com/blog/samestop/samestop.html
+* https://andreizgirvaci.com/blog/how-to-reduce-stress-and-overcome-anxiety-as-a-software-developer
 
 ## Websites
 * https://garden.bradwoods.io/
