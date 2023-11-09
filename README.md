@@ -107,7 +107,6 @@
 * https://lethain.com/forty-year-career/
 * https://every.to/no-small-plans/how-to-do-hard-things
 * https://news.ycombinator.com/item?id=35164819
-* https://evanhahn.com/the-lone-developer-problem/
 * https://www.simplethread.com/20-things-ive-learned-in-my-20-years-as-a-software-engineer/
 #### Read articles
 * https://onengineering.substack.com/p/why-engineers-need-to-be-bored
@@ -117,6 +116,7 @@
 * https://www.engineersneedart.com/blog/samestop/samestop.html
 * https://andreizgirvaci.com/blog/how-to-reduce-stress-and-overcome-anxiety-as-a-software-developer
 * http://farawaytimes.blogspot.com/2023/02/how-to-make-good-small-games.html
+* https://evanhahn.com/the-lone-developer-problem/
 
 ## Websites
 * https://garden.bradwoods.io/
