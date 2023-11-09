@@ -76,6 +76,9 @@
 * https://hono.dev/
 * https://sveltebyexample.com/
 
+## Threads
+* https://news.ycombinator.com/item?id=35164819
+
 ## Articles
 * https://www.scottantipa.com/store-app-state-in-urls
 * https://www.theverge.com/2023/1/28/23574573/google-musiclm-text-to-music-ai
@@ -100,13 +103,10 @@
 * https://simone.org/tracking-screen-time/
 * https://gaultier.github.io/blog/x11_x64.html
 ### Articles / Experience in tech
-* https://kentcdodds.com/blog/stop-being-a-junior
 * https://blog.visionarycto.com/p/my-20-year-career-is-technical-debt
 * https://vadimkravcenko.com/shorts/project-estimates/
-* https://thehistoryoftheweb.com/postscript/the-webs-most-important-decision/
 * https://lethain.com/forty-year-career/
 * https://every.to/no-small-plans/how-to-do-hard-things
-* https://news.ycombinator.com/item?id=35164819
 * https://www.simplethread.com/20-things-ive-learned-in-my-20-years-as-a-software-engineer/
 #### Read articles
 * https://onengineering.substack.com/p/why-engineers-need-to-be-bored
@@ -117,6 +117,8 @@
 * https://andreizgirvaci.com/blog/how-to-reduce-stress-and-overcome-anxiety-as-a-software-developer
 * http://farawaytimes.blogspot.com/2023/02/how-to-make-good-small-games.html
 * https://evanhahn.com/the-lone-developer-problem/
+* https://kentcdodds.com/blog/stop-being-a-junior
+* https://thehistoryoftheweb.com/postscript/the-webs-most-important-decision/
 
 ## Websites
 * https://garden.bradwoods.io/
