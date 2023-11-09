@@ -103,11 +103,9 @@
 * https://simone.org/tracking-screen-time/
 * https://gaultier.github.io/blog/x11_x64.html
 ### Articles / Experience in tech
-* https://blog.visionarycto.com/p/my-20-year-career-is-technical-debt
 * https://vadimkravcenko.com/shorts/project-estimates/
 * https://lethain.com/forty-year-career/
 * https://every.to/no-small-plans/how-to-do-hard-things
-* https://www.simplethread.com/20-things-ive-learned-in-my-20-years-as-a-software-engineer/
 #### Read articles
 * https://onengineering.substack.com/p/why-engineers-need-to-be-bored
 * http://jackkelly.name/blog/archives/2023/05/14/the_maddest_my_code_made_anyone/
@@ -119,6 +117,8 @@
 * https://evanhahn.com/the-lone-developer-problem/
 * https://kentcdodds.com/blog/stop-being-a-junior
 * https://thehistoryoftheweb.com/postscript/the-webs-most-important-decision/
+* https://www.simplethread.com/20-things-ive-learned-in-my-20-years-as-a-software-engineer/
+* https://blog.visionarycto.com/p/my-20-year-career-is-technical-debt
 
 ## Websites
 * https://garden.bradwoods.io/
