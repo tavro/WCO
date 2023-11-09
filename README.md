@@ -120,13 +120,12 @@
 
 ## Websites
 * https://garden.bradwoods.io/
-* https://neal.fun/wonders-of-street-view
 * https://heatmap.jonathanforsythe.co.uk/
 * https://scribblediffusion.com/
 * https://modernfontstacks.com/
 * https://www.commandlinefu.com/commands
 * https://editable.website/
-* https://neal.fun/space-elevator/
+* https://neal.fun
 * https://anvaka.github.io/map-of-github/#1.91/-0.15/0.31
 * https://userinyerface.com/
 * http://robko.ch/qr-designer/
@@ -134,7 +133,6 @@
 * https://brute.fail/
 * https://databasediagram.com/
 * https://www.open-resume.com/
-* https://neal.fun/password-game/
 * https://iconbuddy.app/
 * https://arc.net/
 * https://www.mathsuniverse.com/tixy
@@ -143,10 +141,8 @@
 * https://uicolors.app/create
 * https://openmoji.org/
 * https://pdf.hyzyla.dev/
-* https://neal.fun/internet-artifacts/
 * https://www.kapwing.com/404-illustrations
 * https://m3.material.io/)https://www.open-resume.com/
-* https://neal.fun/password-game/
 * https://iconbuddy.app/
 * https://arc.net/
 * https://www.mathsuniverse.com/tixy
@@ -155,6 +151,5 @@
 * https://uicolors.app/create
 * https://openmoji.org/
 * https://pdf.hyzyla.dev/
-* https://neal.fun/internet-artifacts/
 * https://www.kapwing.com/404-illustrations
 * https://m3.material.io/
