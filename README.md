@@ -122,10 +122,16 @@
 * https://garden.bradwoods.io/
 * https://heatmap.jonathanforsythe.co.uk/
 * https://scribblediffusion.com/
+
+A website that turns your scribbles into reality with the help of AI.
+
 * https://modernfontstacks.com/
 * https://www.commandlinefu.com/commands
 * https://editable.website/
 * https://neal.fun
+  
+A collection of useless but entertaining web projects.
+  
 * https://anvaka.github.io/map-of-github/#1.91/-0.15/0.31
 * https://userinyerface.com/
 * http://robko.ch/qr-designer/
