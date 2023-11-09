@@ -104,7 +104,6 @@
 * https://blog.visionarycto.com/p/my-20-year-career-is-technical-debt
 * https://vadimkravcenko.com/shorts/project-estimates/
 * https://thehistoryoftheweb.com/postscript/the-webs-most-important-decision/
-* http://farawaytimes.blogspot.com/2023/02/how-to-make-good-small-games.html
 * https://lethain.com/forty-year-career/
 * https://every.to/no-small-plans/how-to-do-hard-things
 * https://news.ycombinator.com/item?id=35164819
@@ -117,6 +116,7 @@
 * https://github.com/readme/guides/finish-your-projects
 * https://www.engineersneedart.com/blog/samestop/samestop.html
 * https://andreizgirvaci.com/blog/how-to-reduce-stress-and-overcome-anxiety-as-a-software-developer
+* http://farawaytimes.blogspot.com/2023/02/how-to-make-good-small-games.html
 
 ## Websites
 * https://garden.bradwoods.io/
