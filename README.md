@@ -83,6 +83,18 @@
 * https://www.linkedin.com/posts/maximilian-vom-eyser-9b3866123_lifeatgoogle-onlinemarketing-google-activity-7105090745908224000-4pFc/
 
 ## Articles
+* https://www.lesswrong.com/posts/CYN7swrefEss4e3Qe/childhoods-of-exceptional-people
+* https://arstechnica.com/gadgets/2023/03/why-the-floppy-disk-just-wont-die/
+* https://www.fast.ai/posts/2023-05-03-mojo-launch.html
+* https://quii.dev/HTMX_is_the_Future
+* https://bt.ht/hamburgers/
+* https://simone.org/tracking-screen-time/
+* https://www.axios.com/2023/07/10/sweden-wooden-city-carbon-emissions
+* https://www.developing.dev/p/5-books-every-software-engineer-should?r=1nwcx&utm_campaign=post&utm_medium=web
+* https://computer.rip/2023-07-29-Free-Public-WiFi.html
+* https://catskull.net/html.html
+* https://github.blog/2023-08-28-10-things-you-didnt-know-you-could-do-with-github-projects/
+* https://xlinux.nist.gov/dads/
 
 ### Articles / Tutorials
 * https://www.scottantipa.com/store-app-state-in-urls
@@ -127,19 +139,6 @@
 * https://jwdallas.com/posts/namingcssvariables/
 * https://www.adammadojemu.com/blog/intro-to-building-game-uis-with-react
 * https://sebmestre.blogspot.com/2023/11/en-writing-compiler-is-surprisingly.html
-
-* https://www.lesswrong.com/posts/CYN7swrefEss4e3Qe/childhoods-of-exceptional-people
-* https://arstechnica.com/gadgets/2023/03/why-the-floppy-disk-just-wont-die/
-* https://www.fast.ai/posts/2023-05-03-mojo-launch.html
-* https://quii.dev/HTMX_is_the_Future
-* https://bt.ht/hamburgers/
-* https://simone.org/tracking-screen-time/
-* https://www.axios.com/2023/07/10/sweden-wooden-city-carbon-emissions
-* https://www.developing.dev/p/5-books-every-software-engineer-should?r=1nwcx&utm_campaign=post&utm_medium=web
-* https://computer.rip/2023-07-29-Free-Public-WiFi.html
-* https://catskull.net/html.html
-* https://github.blog/2023-08-28-10-things-you-didnt-know-you-could-do-with-github-projects/
-* https://xlinux.nist.gov/dads/
 
 ### Articles / Experience in tech
 * https://jasonfeifer.beehiiv.com/p/the-thing-that-seems-like-a-bad-idea-maybe-try-it
