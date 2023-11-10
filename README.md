@@ -75,6 +75,7 @@
 * https://codecrafters.io/
 * https://hono.dev/
 * https://sveltebyexample.com/
+* https://harelang.org/
 
 ## Threads
 * https://news.ycombinator.com/item?id=35164819
@@ -102,10 +103,67 @@
 * https://18alan.space/posts/how-hard-is-it-to-build-a-frontend-framework.html
 * https://simone.org/tracking-screen-time/
 * https://gaultier.github.io/blog/x11_x64.html
+* https://samwho.dev/hashing/
+* https://jasonfeifer.beehiiv.com/p/the-thing-that-seems-like-a-bad-idea-maybe-try-it
+* https://interviewing.io/guides/hiring-process
+* https://levelup.gitconnected.com/am-i-not-meant-to-be-a-programmer-ab73e8cfa331
+* https://whileydave.com/2023/06/27/programming-languages-going-above-and-beyond/
+* https://blog.miguelgrinberg.com/post/building-a-toy-programming-language-in-python
+* https://www.joshwcomeau.com/css/color-formats/
+* https://levelup.gitconnected.com/10-lesser-known-programming-languages-revolutionizing-the-tech-industry-july-2023-edition-64f356d0df8d
+* https://www.moderndescartes.com/essays/readability/
+* https://thenewstack.io/too-much-javascript-why-the-frontend-needs-to-build-better/
+* https://www.jointaro.com/blog/how-to-improve-at-problem-solving-as-a-junior-engineer/
+* https://www.axios.com/2023/07/10/sweden-wooden-city-carbon-emissions
+* https://rainingcomputers.blog/dist/the_path_to_implementing_a_programming_language.md
+* https://www.developing.dev/p/5-books-every-software-engineer-should?r=1nwcx&utm_campaign=post&utm_medium=web
+* https://www.appsmith.com/blog/write-a-great-readme
+* https://careercutler.substack.com/p/how-to-give-presentations-and-demos?r=1nwcx&utm_campaign=post&utm_medium=web
+* https://esthercrawford.medium.com/an-epilogue-to-my-time-working-at-twitter-24a126098246
+* https://dev.to/in/101-javascript-concepts-you-need-to-know-59h8
+* https://computer.rip/2023-07-29-Free-Public-WiFi.html
+* https://itnext.io/understanding-the-functional-programming-paradigm-ffbd1474e4e6
+* https://ntietz.com/blog/throw-away-your-first-draft/
+* https://blog.scottlogic.com/2023/07/21/seven-things-i-wish-i-knew-when-i-started-as-a-software-developer.html
+* https://catskull.net/html.html
+* https://thecodist.com/why-are-people-still-using-c/
+* https://matklad.github.io/2023/08/17/typescript-is-surprisingly-ok-for-compilers.html
+* https://semaphoreci.com/blog/tips-junior-software-developers
+* https://blog.pragmaticengineer.com/how-games-typically-get-built
+* https://www.forbes.com/sites/esmtberlin/2023/08/23/how-to-make-time-for-professional-development/amp/
+* https://sapegin.me/blog/naming/
+* https://www.patrickweaver.net/blog/a-blog-post-with-every-html-element/
+* https://calnewport.com/edsger-dijkstras-one-day-workweek/
+* https://medium.com/womenintechnology/why-and-how-to-create-content-as-a-software-engineer-7f083442cdce
+* https://addyosmani.com/blog/write-learn/
+* https://www.platformer.news/p/elon-musks-creep-show?r=2bjtip
+* https://www.theverge.com/23846048/google-search-memes-images-pagerank-altavista-seo-keywords
+* https://github.blog/2023-08-28-10-things-you-didnt-know-you-could-do-with-github-projects/
+* https://www.thecodedmessage.com/posts/c++-papercuts/
+* https://news.ycombinator.com/item?id=37300579
+* https://robertheaton.com/interview/
+* https://dannorth.net/the-worst-programmer/
+* https://kaviisuri.com/you-dont-need-to-learn-svelte
+* https://hackernoon.com/understanding-dynamic-programming-so-you-can-use-it-effectively
+* https://review.firstround.com/the-engineers-guide-to-career-growth-advice-from-my-time-at-stripe-and-facebook
+* https://www.linkedin.com/posts/maximilian-vom-eyser-9b3866123_lifeatgoogle-onlinemarketing-google-activity-7105090745908224000-4pFc/
+* https://www.lambrospetrou.com/articles/big-tech-software-interviews/
+* https://benhoyt.com/writings/how-to-apply
+* https://biz.crast.net/computer-science-is-no-longer-a-safe-major
+* https://xlinux.nist.gov/dads/
+* https://austinhenley.com/blog/raycasting.html
+* https://www.careerfair.io/online-maze
+* https://newsletter.eng-leadership.com/p/become-a-better-engineer-by-working
+* https://vadimkravcenko.com/shorts/habits-of-great-software-engineers/
+* https://medium.com/slalom-build/how-to-write-documentation-that-people-will-actually-read-and-use-b26791fc1429
+* https://dave.cheney.net/paste/gophercon-sg-2023.html
+* https://www.adammadojemu.com/blog/intro-to-building-game-uis-with-react
+* https://jwdallas.com/posts/namingcssvariables/
+* https://sebmestre.blogspot.com/2023/11/en-writing-compiler-is-surprisingly.html
+* https://clig.dev/
+* https://www.mensurdurakovic.com/hard-to-swallow-truths-they-wont-tell-you-about-software-engineer-job/
+
 ### Articles / Experience in tech
-* https://vadimkravcenko.com/shorts/project-estimates/
-* https://lethain.com/forty-year-career/
-* https://every.to/no-small-plans/how-to-do-hard-things
 #### Read articles
 * https://onengineering.substack.com/p/why-engineers-need-to-be-bored
 * http://jackkelly.name/blog/archives/2023/05/14/the_maddest_my_code_made_anyone/
@@ -119,6 +177,8 @@
 * https://thehistoryoftheweb.com/postscript/the-webs-most-important-decision/
 * https://www.simplethread.com/20-things-ive-learned-in-my-20-years-as-a-software-engineer/
 * https://blog.visionarycto.com/p/my-20-year-career-is-technical-debt
+* https://vadimkravcenko.com/shorts/project-estimates/
+* https://lethain.com/forty-year-career/
 
 ## Websites
 * https://garden.bradwoods.io/
