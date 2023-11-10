@@ -79,91 +79,98 @@
 
 ## Threads
 * https://news.ycombinator.com/item?id=35164819
+* https://news.ycombinator.com/item?id=37300579
+* https://www.linkedin.com/posts/maximilian-vom-eyser-9b3866123_lifeatgoogle-onlinemarketing-google-activity-7105090745908224000-4pFc/
 
 ## Articles
+
+### Articles / Tutorials
 * https://www.scottantipa.com/store-app-state-in-urls
-* https://www.theverge.com/2023/1/28/23574573/google-musiclm-text-to-music-ai
-* https://buttondown.email/hillelwayne/archive/tag-systems/
-* https://palant.info/2023/01/30/password-strength-explained/
-* https://cult.honeypot.io/reads/react-js-the-documentary-how-it-all-began/
-* https://archive.ph/Bc2Mr
-* https://www.lesswrong.com/posts/CYN7swrefEss4e3Qe/childhoods-of-exceptional-people
-* https://www.theverge.com/2023/3/6/23627875/twitter-outage-how-it-happened-engineer-api-shut-down
-* https://arstechnica.com/gadgets/2023/03/why-the-floppy-disk-just-wont-die/
 * https://ishadeed.com/article/css-masking/
-* https://www.dailymail.co.uk/sciencetech/article-11970491/Google-using-FONTS-track-online-it.html
 * https://dev.to/zvone187/45-ways-to-break-an-api-server-negative-tests-with-examples-4ok3
 * https://dev.to/accreditly/mastering-error-handling-in-javascript-3ice
 * https://eliemichel.github.io/LearnWebGPU/
 * https://ui.dev/why-react-renders
+* https://18alan.space/posts/how-hard-is-it-to-build-a-frontend-framework.html
+* https://gaultier.github.io/blog/x11_x64.html
+* https://blog.miguelgrinberg.com/post/building-a-toy-programming-language-in-python
+* https://www.joshwcomeau.com/css/color-formats/
+* https://www.appsmith.com/blog/write-a-great-readme
+* https://austinhenley.com/blog/raycasting.html
+* https://dave.cheney.net/paste/gophercon-sg-2023.html
+* https://clig.dev/
+
+### Articles / News & Documentaries
+* https://www.theverge.com/2023/1/28/23574573/google-musiclm-text-to-music-ai
+* https://cult.honeypot.io/reads/react-js-the-documentary-how-it-all-began/
+* https://archive.ph/Bc2Mr
+* https://www.theverge.com/2023/3/6/23627875/twitter-outage-how-it-happened-engineer-api-shut-down
+* https://www.dailymail.co.uk/sciencetech/article-11970491/Google-using-FONTS-track-online-it.html
+* https://www.platformer.news/p/elon-musks-creep-show?r=2bjtip
+* https://www.theverge.com/23846048/google-search-memes-images-pagerank-altavista-seo-keywords
+
+### Articles / Explaining Concepts
+* https://buttondown.email/hillelwayne/archive/tag-systems/
+* https://palant.info/2023/01/30/password-strength-explained/
 * https://azeemba.com/posts/what-is-a-url.html
+* https://samwho.dev/hashing/
+* https://whileydave.com/2023/06/27/programming-languages-going-above-and-beyond/
+* https://levelup.gitconnected.com/10-lesser-known-programming-languages-revolutionizing-the-tech-industry-july-2023-edition-64f356d0df8d
+* https://rainingcomputers.blog/dist/the_path_to_implementing_a_programming_language.md
+* https://dev.to/in/101-javascript-concepts-you-need-to-know-59h8
+* https://itnext.io/understanding-the-functional-programming-paradigm-ffbd1474e4e6
+* https://matklad.github.io/2023/08/17/typescript-is-surprisingly-ok-for-compilers.html
+* https://sapegin.me/blog/naming/
+* https://www.patrickweaver.net/blog/a-blog-post-with-every-html-element/
+* https://www.thecodedmessage.com/posts/c++-papercuts/
+* https://hackernoon.com/understanding-dynamic-programming-so-you-can-use-it-effectively
+* https://jwdallas.com/posts/namingcssvariables/
+* https://www.adammadojemu.com/blog/intro-to-building-game-uis-with-react
+* https://sebmestre.blogspot.com/2023/11/en-writing-compiler-is-surprisingly.html
+
+* https://www.lesswrong.com/posts/CYN7swrefEss4e3Qe/childhoods-of-exceptional-people
+* https://arstechnica.com/gadgets/2023/03/why-the-floppy-disk-just-wont-die/
 * https://www.fast.ai/posts/2023-05-03-mojo-launch.html
 * https://quii.dev/HTMX_is_the_Future
 * https://bt.ht/hamburgers/
-* https://18alan.space/posts/how-hard-is-it-to-build-a-frontend-framework.html
 * https://simone.org/tracking-screen-time/
-* https://gaultier.github.io/blog/x11_x64.html
-* https://samwho.dev/hashing/
+* https://www.axios.com/2023/07/10/sweden-wooden-city-carbon-emissions
+* https://www.developing.dev/p/5-books-every-software-engineer-should?r=1nwcx&utm_campaign=post&utm_medium=web
+* https://computer.rip/2023-07-29-Free-Public-WiFi.html
+* https://catskull.net/html.html
+* https://github.blog/2023-08-28-10-things-you-didnt-know-you-could-do-with-github-projects/
+* https://xlinux.nist.gov/dads/
+
+### Articles / Experience in tech
 * https://jasonfeifer.beehiiv.com/p/the-thing-that-seems-like-a-bad-idea-maybe-try-it
 * https://interviewing.io/guides/hiring-process
 * https://levelup.gitconnected.com/am-i-not-meant-to-be-a-programmer-ab73e8cfa331
-* https://whileydave.com/2023/06/27/programming-languages-going-above-and-beyond/
-* https://blog.miguelgrinberg.com/post/building-a-toy-programming-language-in-python
-* https://www.joshwcomeau.com/css/color-formats/
-* https://levelup.gitconnected.com/10-lesser-known-programming-languages-revolutionizing-the-tech-industry-july-2023-edition-64f356d0df8d
 * https://www.moderndescartes.com/essays/readability/
 * https://thenewstack.io/too-much-javascript-why-the-frontend-needs-to-build-better/
 * https://www.jointaro.com/blog/how-to-improve-at-problem-solving-as-a-junior-engineer/
-* https://www.axios.com/2023/07/10/sweden-wooden-city-carbon-emissions
-* https://rainingcomputers.blog/dist/the_path_to_implementing_a_programming_language.md
-* https://www.developing.dev/p/5-books-every-software-engineer-should?r=1nwcx&utm_campaign=post&utm_medium=web
-* https://www.appsmith.com/blog/write-a-great-readme
 * https://careercutler.substack.com/p/how-to-give-presentations-and-demos?r=1nwcx&utm_campaign=post&utm_medium=web
 * https://esthercrawford.medium.com/an-epilogue-to-my-time-working-at-twitter-24a126098246
-* https://dev.to/in/101-javascript-concepts-you-need-to-know-59h8
-* https://computer.rip/2023-07-29-Free-Public-WiFi.html
-* https://itnext.io/understanding-the-functional-programming-paradigm-ffbd1474e4e6
 * https://ntietz.com/blog/throw-away-your-first-draft/
 * https://blog.scottlogic.com/2023/07/21/seven-things-i-wish-i-knew-when-i-started-as-a-software-developer.html
-* https://catskull.net/html.html
 * https://thecodist.com/why-are-people-still-using-c/
-* https://matklad.github.io/2023/08/17/typescript-is-surprisingly-ok-for-compilers.html
 * https://semaphoreci.com/blog/tips-junior-software-developers
 * https://blog.pragmaticengineer.com/how-games-typically-get-built
 * https://www.forbes.com/sites/esmtberlin/2023/08/23/how-to-make-time-for-professional-development/amp/
-* https://sapegin.me/blog/naming/
-* https://www.patrickweaver.net/blog/a-blog-post-with-every-html-element/
 * https://calnewport.com/edsger-dijkstras-one-day-workweek/
 * https://medium.com/womenintechnology/why-and-how-to-create-content-as-a-software-engineer-7f083442cdce
 * https://addyosmani.com/blog/write-learn/
-* https://www.platformer.news/p/elon-musks-creep-show?r=2bjtip
-* https://www.theverge.com/23846048/google-search-memes-images-pagerank-altavista-seo-keywords
-* https://github.blog/2023-08-28-10-things-you-didnt-know-you-could-do-with-github-projects/
-* https://www.thecodedmessage.com/posts/c++-papercuts/
-* https://news.ycombinator.com/item?id=37300579
 * https://robertheaton.com/interview/
 * https://dannorth.net/the-worst-programmer/
 * https://kaviisuri.com/you-dont-need-to-learn-svelte
-* https://hackernoon.com/understanding-dynamic-programming-so-you-can-use-it-effectively
 * https://review.firstround.com/the-engineers-guide-to-career-growth-advice-from-my-time-at-stripe-and-facebook
-* https://www.linkedin.com/posts/maximilian-vom-eyser-9b3866123_lifeatgoogle-onlinemarketing-google-activity-7105090745908224000-4pFc/
 * https://www.lambrospetrou.com/articles/big-tech-software-interviews/
 * https://benhoyt.com/writings/how-to-apply
 * https://biz.crast.net/computer-science-is-no-longer-a-safe-major
-* https://xlinux.nist.gov/dads/
-* https://austinhenley.com/blog/raycasting.html
 * https://www.careerfair.io/online-maze
 * https://newsletter.eng-leadership.com/p/become-a-better-engineer-by-working
 * https://vadimkravcenko.com/shorts/habits-of-great-software-engineers/
 * https://medium.com/slalom-build/how-to-write-documentation-that-people-will-actually-read-and-use-b26791fc1429
-* https://dave.cheney.net/paste/gophercon-sg-2023.html
-* https://www.adammadojemu.com/blog/intro-to-building-game-uis-with-react
-* https://jwdallas.com/posts/namingcssvariables/
-* https://sebmestre.blogspot.com/2023/11/en-writing-compiler-is-surprisingly.html
-* https://clig.dev/
 * https://www.mensurdurakovic.com/hard-to-swallow-truths-they-wont-tell-you-about-software-engineer-job/
-
-### Articles / Experience in tech
 #### Read articles
 * https://onengineering.substack.com/p/why-engineers-need-to-be-bored
 * http://jackkelly.name/blog/archives/2023/05/14/the_maddest_my_code_made_anyone/
