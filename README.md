@@ -190,6 +190,9 @@
 ## Websites
 * https://garden.bradwoods.io/
 * https://heatmap.jonathanforsythe.co.uk/
+
+A website visualising git repositories by diff activity.
+
 * https://scribblediffusion.com/
 
 A website that turns your scribbles into reality with the help of AI.
@@ -204,27 +207,41 @@ A collection of useless but entertaining web projects.
 * https://anvaka.github.io/map-of-github/#1.91/-0.15/0.31
 * https://userinyerface.com/
 * http://robko.ch/qr-designer/
+
+A web app for designing QR-codes.
+
 * https://hnresumetojobs.com/
+
+A website that shows you jobs most relevant to your resume.
+  
 * https://brute.fail/
 * https://databasediagram.com/
 * https://www.open-resume.com/
+
+A free, open-source, and powerful resume builder.
+
 * https://iconbuddy.app/
+
+A website where you can find over 200k+ open source icons.
+
 * https://arc.net/
 * https://www.mathsuniverse.com/tixy
 * https://web-check.xyz/
+
+An all-in-one OSINT tool for analysing any website.
+
 * https://flatdraw.com/
 * https://uicolors.app/create
+
+A Tailwind CSS Color Generator.
+
 * https://openmoji.org/
+
+An open source project for free to use emojis.
+
 * https://pdf.hyzyla.dev/
 * https://www.kapwing.com/404-illustrations
-* https://m3.material.io/)https://www.open-resume.com/
-* https://iconbuddy.app/
-* https://arc.net/
-* https://www.mathsuniverse.com/tixy
-* https://web-check.xyz/
-* https://flatdraw.com/
-* https://uicolors.app/create
-* https://openmoji.org/
-* https://pdf.hyzyla.dev/
-* https://www.kapwing.com/404-illustrations
+
+A website for error 404 Illustrations to use for your web projects.
+
 * https://m3.material.io/
