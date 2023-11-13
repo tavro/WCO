@@ -113,13 +113,14 @@
 * https://clig.dev/
 
 ### Articles / News & Documentaries
-* https://www.theverge.com/2023/1/28/23574573/google-musiclm-text-to-music-ai
 * https://cult.honeypot.io/reads/react-js-the-documentary-how-it-all-began/
 * https://archive.ph/Bc2Mr
-* https://www.theverge.com/2023/3/6/23627875/twitter-outage-how-it-happened-engineer-api-shut-down
-* https://www.dailymail.co.uk/sciencetech/article-11970491/Google-using-FONTS-track-online-it.html
-* https://www.platformer.news/p/elon-musks-creep-show?r=2bjtip
 * https://www.theverge.com/23846048/google-search-memes-images-pagerank-altavista-seo-keywords
+#### Read Articles
+* https://www.platformer.news/p/elon-musks-creep-show?r=2bjtip
+* https://www.theverge.com/2023/3/6/23627875/twitter-outage-how-it-happened-engineer-api-shut-down
+* https://www.theverge.com/2023/1/28/23574573/google-musiclm-text-to-music-ai
+* https://www.dailymail.co.uk/sciencetech/article-11970491/Google-using-FONTS-track-online-it.html
 
 ### Articles / Explaining Concepts
 * https://buttondown.email/hillelwayne/archive/tag-systems/
