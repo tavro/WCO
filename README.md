@@ -105,31 +105,30 @@
 * https://ui.dev/why-react-renders
 * https://18alan.space/posts/how-hard-is-it-to-build-a-frontend-framework.html
 * https://gaultier.github.io/blog/x11_x64.html
-* https://blog.miguelgrinberg.com/post/building-a-toy-programming-language-in-python
 * https://www.joshwcomeau.com/css/color-formats/
-* https://www.appsmith.com/blog/write-a-great-readme
 * https://austinhenley.com/blog/raycasting.html
 * https://dave.cheney.net/paste/gophercon-sg-2023.html
 * https://clig.dev/
+#### Read Articles
+* https://blog.miguelgrinberg.com/post/building-a-toy-programming-language-in-python
+* https://www.appsmith.com/blog/write-a-great-readme
 
 ### Articles / News & Documentaries
 * https://cult.honeypot.io/reads/react-js-the-documentary-how-it-all-began/
 * https://archive.ph/Bc2Mr
-* https://www.theverge.com/23846048/google-search-memes-images-pagerank-altavista-seo-keywords
 #### Read Articles
 * https://www.platformer.news/p/elon-musks-creep-show?r=2bjtip
 * https://www.theverge.com/2023/3/6/23627875/twitter-outage-how-it-happened-engineer-api-shut-down
 * https://www.theverge.com/2023/1/28/23574573/google-musiclm-text-to-music-ai
 * https://www.dailymail.co.uk/sciencetech/article-11970491/Google-using-FONTS-track-online-it.html
+* https://www.theverge.com/23846048/google-search-memes-images-pagerank-altavista-seo-keywords
 
 ### Articles / Explaining Concepts
 * https://buttondown.email/hillelwayne/archive/tag-systems/
-* https://palant.info/2023/01/30/password-strength-explained/
 * https://azeemba.com/posts/what-is-a-url.html
 * https://samwho.dev/hashing/
 * https://whileydave.com/2023/06/27/programming-languages-going-above-and-beyond/
 * https://levelup.gitconnected.com/10-lesser-known-programming-languages-revolutionizing-the-tech-industry-july-2023-edition-64f356d0df8d
-* https://rainingcomputers.blog/dist/the_path_to_implementing_a_programming_language.md
 * https://dev.to/in/101-javascript-concepts-you-need-to-know-59h8
 * https://itnext.io/understanding-the-functional-programming-paradigm-ffbd1474e4e6
 * https://matklad.github.io/2023/08/17/typescript-is-surprisingly-ok-for-compilers.html
@@ -140,6 +139,9 @@
 * https://jwdallas.com/posts/namingcssvariables/
 * https://www.adammadojemu.com/blog/intro-to-building-game-uis-with-react
 * https://sebmestre.blogspot.com/2023/11/en-writing-compiler-is-surprisingly.html
+#### Read Articles
+* https://palant.info/2023/01/30/password-strength-explained/
+* https://rainingcomputers.blog/dist/the_path_to_implementing_a_programming_language.md
 
 ### Articles / Experience in tech
 * https://jasonfeifer.beehiiv.com/p/the-thing-that-seems-like-a-bad-idea-maybe-try-it
