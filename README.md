@@ -76,6 +76,12 @@
 * https://hono.dev/
 * https://sveltebyexample.com/
 * https://harelang.org/
+* https://monaspace.githubnext.com
+* https://github.com/visgl/react-google-maps
+* https://github.com/SawyerHood/draw-a-ui
+* https://wasmbyexample.dev/home.en-us.html
+* https://webassembly.org/
+* https://llvm.org/
 
 ## Threads
 * https://news.ycombinator.com/item?id=35164819
@@ -95,6 +101,24 @@
 * https://catskull.net/html.html
 * https://github.blog/2023-08-28-10-things-you-didnt-know-you-could-do-with-github-projects/
 * https://xlinux.nist.gov/dads/
+* https://shreyans.org/google
+* https://www.cnbc.com/2023/11/09/google-employees-typically-work-longer-than-eight-hours-a-day.html
+* https://convolv.es/guides/lto/
+* https://engineercodex.substack.com/p/how-to-burnout-a-software-engineer
+* https://alan.norbauer.com/articles/browser-debugging-tricks
+* https://html-first.com/
+* https://sidecart.xyz/blog/2023/11/01/lessons-learned-by-software-guy-venturing-into-hardware/
+* https://arne.me/articles/archive-your-old-projects
+* https://www.developing.dev/p/5-skills-all-10x-engineers-have
+* https://levelup.gitconnected.com/11-ways-to-optimize-your-website-1711b0d42de8
+* https://blog.jim-nielsen.com/2023/html-web-components/
+* https://www.smashingmagazine.com/2023/11/designing-web-design-documentation/
+* https://phuoc.ng/collection/react-drag-drop/build-a-custom-scrollbar/
+* https://tratt.net/laurie/blog/2023/four_kinds_of_optimisation.html
+* https://yorickpeterse.com/articles/a-decade-of-developing-a-programming-language/
+* https://thecodeenigma.com/post/advice-to-myself-when-starting-as-a-software-developer/
+* https://www.theverge.com/2023/11/15/23959801/microsoft-loop-launch-notion-competitor
+* https://9to5google.com/2023/11/15/google-search-notes/
 
 ### Articles / Tutorials
 * https://www.scottantipa.com/store-app-state-in-urls
@@ -247,3 +271,7 @@ An open source project for free to use emojis.
 A website for error 404 Illustrations to use for your web projects.
 
 * https://m3.material.io/
+* https://sadservers.com/scenarios
+* https://bitwarden.com/password-generator/
+* https://www.random.org/dice/?num=5
+* https://lowe.github.io/tryzxcvbn/
