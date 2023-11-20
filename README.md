@@ -82,6 +82,8 @@
 * https://wasmbyexample.dev/home.en-us.html
 * https://webassembly.org/
 * https://llvm.org/
+* https://github.com/zoonk/uneebee
+* https://github.com/dylanebert/gsplat.js
 
 ## Threads
 * https://news.ycombinator.com/item?id=35164819
@@ -119,6 +121,12 @@
 * https://thecodeenigma.com/post/advice-to-myself-when-starting-as-a-software-developer/
 * https://www.theverge.com/2023/11/15/23959801/microsoft-loop-launch-notion-competitor
 * https://9to5google.com/2023/11/15/google-search-notes/
+* https://duttakapil.com/posts/coding-is-hard
+* https://www.theverge.com/2023/11/20/23968829/microsoft-hires-sam-altman-greg-brockman-employees-openai
+* https://careercutler.substack.com/p/7-books-that-changed-me-the-most
+* https://www.developing.dev/p/top-tech-company-engineering-blog
+* https://loeber.substack.com/p/a-timeline-of-the-openai-board
+* https://www.independent.co.uk/tech/iphone-apple-security-software-lockdown-mode-b2450192.html
 
 ### Articles / Tutorials
 * https://www.scottantipa.com/store-app-state-in-urls
@@ -275,3 +283,4 @@ A website for error 404 Illustrations to use for your web projects.
 * https://bitwarden.com/password-generator/
 * https://www.random.org/dice/?num=5
 * https://lowe.github.io/tryzxcvbn/
+* https://rubjo.github.io/victor-mono/
