@@ -127,6 +127,10 @@
 * https://www.developing.dev/p/top-tech-company-engineering-blog
 * https://loeber.substack.com/p/a-timeline-of-the-openai-board
 * https://www.independent.co.uk/tech/iphone-apple-security-software-lockdown-mode-b2450192.html
+* https://brandonspark.github.io/150/
+* https://web.dev/learn/performance
+* https://engineercodex.substack.com/p/clever-code-is-probably-the-worst?r=2bjtip
+* https://www.androidauthority.com/youtube-reportedly-slowing-down-videos-firefox-3387206/
 
 ### Articles / Tutorials
 * https://www.scottantipa.com/store-app-state-in-urls
