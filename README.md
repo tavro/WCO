@@ -131,6 +131,7 @@
 * https://web.dev/learn/performance
 * https://engineercodex.substack.com/p/clever-code-is-probably-the-worst?r=2bjtip
 * https://www.androidauthority.com/youtube-reportedly-slowing-down-videos-firefox-3387206/
+* https://glandium.org/blog/?p=4346
 
 ### Articles / Tutorials
 * https://www.scottantipa.com/store-app-state-in-urls
